@@ -1,0 +1,22 @@
+{
+    "report_key": "5140ff2158e6430c8481ca7ad3dd08be",
+    "report_description": "Dolorem quod molestiae voluptas.",
+    "status": "C",
+    "report_sku": "hire3",
+    "order_date": "1986-05-20 12:34:56",
+    "completed_date": "1986-05-20 12:34:56",
+    "flagged_for_end_user_review": false,
+    "applicant": {
+        "email": "arthur.dent@example.com",
+        "name": {
+            "first": "Arthur",
+            "middle": "Philip",
+            "last": "Dent"
+        },
+        "dob": {
+            "month": "05",
+            "day": "20",
+            "year": "1986"
+        }
+    }
+}
